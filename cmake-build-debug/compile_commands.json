@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/marketData.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/marketData.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/marketData.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/marketData.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/matchingEngine.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/matchingEngine.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/matchingEngine.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/matchingEngine.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/order.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/order.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/order.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/order.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/orderBook.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/orderBook.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/orderBook.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/orderBook.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/orderManagement.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/orderManagement.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/orderManagement.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/orderManagement.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -Dlibmatching_engine_EXPORTS -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fPIC -fcolor-diagnostics -o CMakeFiles/libmatching_engine.dir/src/trader.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/src/trader.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/src/trader.cpp",
+  "output": "CMakeFiles/libmatching_engine.dir/src/trader.cpp.o"
+},
+{
+  "directory": "/Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/shashank/Downloads/orderbook-matching-engine-master/include -g -Wall -std=c++14 -stdlib=libc++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -o CMakeFiles/market_test.dir/test/market_test.cpp.o -c /Users/shashank/Downloads/orderbook-matching-engine-master/test/market_test.cpp",
+  "file": "/Users/shashank/Downloads/orderbook-matching-engine-master/test/market_test.cpp",
+  "output": "CMakeFiles/market_test.dir/test/market_test.cpp.o"
+}
+]

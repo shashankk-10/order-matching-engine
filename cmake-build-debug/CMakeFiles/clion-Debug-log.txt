@@ -1,0 +1,64 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/shashank/Downloads/orderbook-matching-engine-master -B /Users/shashank/Downloads/orderbook-matching-engine-master/cmake-build-debug
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is AppleClang 14.0.3.14030022
+-- The CXX compiler identification is AppleClang 14.0.3.14030022
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Could NOT find Boost (missing: Boost_INCLUDE_DIR unit_test_framework) (Required is at least version "1.60")
+-- Configuring done (0.9s)
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+Boost_INCLUDE_DIR (ADVANCED)
+   used as include directory in directory /Users/shashank/Downloads/orderbook-matching-engine-master
+   used as include directory in directory /Users/shashank/Downloads/orderbook-matching-engine-master
+   used as include directory in directory /Users/shashank/Downloads/orderbook-matching-engine-master
+   used as include directory in directory /Users/shashank/Downloads/orderbook-matching-engine-master
+   used as include directory in directory /Users/shashank/Downloads/orderbook-matching-engine-master
+
+CMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of
+  "libmatching_engine":
+
+    "Boost_INCLUDE_DIR-NOTFOUND"
+
+
+
+CMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of
+  "libmatching_engine":
+
+    "Boost_INCLUDE_DIR-NOTFOUND"
+
+
+
+CMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of "market_test":
+
+    "Boost_INCLUDE_DIR-NOTFOUND"
+
+
+
+CMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of "market_test":
+
+    "Boost_INCLUDE_DIR-NOTFOUND"
+
+
+
+-- Generating done (0.0s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.
